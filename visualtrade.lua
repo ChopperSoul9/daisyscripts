@@ -45,6 +45,7 @@ local STATIC_PLAYER_NAMES = {
      "roplexyoutube",
      " JesseRaen",
      "stranger_s4mu",
+    "⭐️ THE_TORNADO",
 }
 
 local cachedUserIds = {}
